@@ -1,0 +1,102 @@
+{
+  "nameMarket": "SUPERMERCADOS BH COM. DE ALIMENTOS S.A",
+  "addressMarket": {
+    "road": "Rua IVANILDE MATIAS BUENO",
+    "number": " 60",
+    "bairro": " SOLEDADE",
+    "cep": " 3145901 ",
+    "city": " OURO BRANCO",
+    "state": " MG"
+  },
+  "keyNote": "31-24/04-04.641.376/0068-43-65-066-000.138.590-144.097.8735",
+  "date": "26/04/2024",
+  "hour": "19:10:37",
+  "totalItems": "14",
+  "totalValue": "148.81",
+  "listItems": [
+    {
+      "nameProduct": "PIZZA P PAF 460G",
+      "amountProduct": "1.000",
+      "unit": "PT",
+      "value": 13.98
+    },
+    {
+      "nameProduct": "QJO MUS FAT",
+      "amountProduct": "0.264",
+      "unit": "kg",
+      "value": 8.42
+    },
+    {
+      "nameProduct": "MORT PERD BO DEF FAT",
+      "amountProduct": "0.282",
+      "unit": "kg",
+      "value": 7.02
+    },
+    {
+      "nameProduct": "PAO FRANC",
+      "amountProduct": "0.230",
+      "unit": "kg",
+      "value": 2.99
+    },
+    {
+      "nameProduct": "MAC INS NIS LAM 85G",
+      "amountProduct": "4.000",
+      "unit": "PT",
+      "value": 9.92
+    },
+    {
+      "nameProduct": "LTE L V CAM DES 1L",
+      "amountProduct": "1.000",
+      "unit": "TP",
+      "value": 4.15
+    },
+    {
+      "nameProduct": "REQ CR CAMP LIG 400",
+      "amountProduct": "1.000",
+      "unit": "PO",
+      "value": 14.98
+    },
+    {
+      "nameProduct": "PICOLE KIB ESK 92G",
+      "amountProduct": "1.000",
+      "unit": "UN",
+      "value": 9.9
+    },
+    {
+      "nameProduct": "LTE L V CAM DES 1L",
+      "amountProduct": "1.000",
+      "unit": "TP",
+      "value": 4.15
+    },
+    {
+      "nameProduct": "BEB ALC BEATS 269ML",
+      "amountProduct": "2.000",
+      "unit": "GF",
+      "value": 14.96
+    },
+    {
+      "nameProduct": "SUCO TIAL 100% 1L",
+      "amountProduct": "1.000",
+      "unit": "TP",
+      "value": 9.48
+    },
+    {
+      "nameProduct": "BEB EN MONST 473ML",
+      "amountProduct": "1.000",
+      "unit": "LT",
+      "value": 8.98
+    },
+    {
+      "nameProduct": "DESOD DOVE AE 250ML",
+      "amountProduct": "1.000",
+      "unit": "FR",
+      "value": 23.9
+    },
+    {
+      "nameProduct": "OVOS BCO S MON C/30",
+      "amountProduct": "1.000",
+      "unit": "BJ",
+      "value": 15.98
+    }
+  ]
+}
